@@ -6,3 +6,6 @@ __pycache__/
 qdrant_data/
 *.egg-info/
 reports/*.json
+.venv/
+naive_baseline_report.json
+ragas_report.json
